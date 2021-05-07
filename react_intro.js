@@ -26,5 +26,7 @@
     - 작업중인 모든 파일 등록
 
     4. git commit -m "커밋 이름"
+
+    5. git push origin master
     
 */
